@@ -1,0 +1,26 @@
+﻿.innerTable {
+    width: 1000px !important;
+}
+
+.innerTableAr {
+    width: 1000px !important;
+    direction: rtl;
+}
+
+.HeaderLabel {
+    font-family: HeaderLabelFont;
+}
+
+.DetailLabel {
+    font-family: DetailLabelFont;
+}
+
+#language_ul{
+    list-style: none inside;
+    text-align: center;
+    border: 1px black;
+}
+#language_id{
+    text-decoration: none;
+    color: black;
+}
